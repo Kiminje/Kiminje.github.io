@@ -1,7 +1,9 @@
 # Setup
 title: Slow Drummer
+name: Kiminje
 description: I'm very interested in GNN, GPU, and NPU.
-url: https://Kiminje.github.io
+baseurl: ""
+url: https://github.com/Kiminje/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -30,7 +32,7 @@ exclude:
 # Optimize Jekyl SEO Tag
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Inje Kim
   links:
     - https://github.com/Kiminje
 google_site_verification: xxxxx
